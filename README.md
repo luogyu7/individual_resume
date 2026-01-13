@@ -1,2 +1,2 @@
 # individual_resume
-This repository created by luogyu7 using to apply for a job.
+This repository is used for applying for doctoral degree programs
